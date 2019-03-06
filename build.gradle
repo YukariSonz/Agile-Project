@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'Start'
+dependencies {
+  testCompile 'junit:junit:4.12'
+  compile 'com.miglayout:miglayout:3.7.4'
+  testCompile 'com.athaydes.automaton:Automaton:1.3.2'
+  testCompile 'org.hamcrest:hamcrest-all:1.3'
+  testCompile 'org.mockito:mockito-core:2.2.+'
+}
+repositories{
+  mavenCentral()
+}
