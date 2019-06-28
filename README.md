@@ -1,6 +1,8 @@
 # AgileProject
 ### SEG agile project.
 
+## Duration: 5 weeks (First semester at Undergraduate Second Year)
+
 # Team Krill
 
 Alexandros Doganis
